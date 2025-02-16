@@ -55,7 +55,7 @@ I'm a passionate Java Developer with experience in building scalable and efficie
 ---
 
 ## 📌 Projects
-- 🔹 [E-Wallet-App](#) - E-Wallet App is an innovative E-Wallet application that allows users to make fast, secure, and convenient financial transactions. Manage your money effortlessly and enjoy a cashless lifestyle!
+- 🔹 [E-Wallet-App](https://github.com/AbdulRabbNawaz/E-Wallet-App) - E-Wallet App is an innovative E-Wallet application that allows users to make fast, secure, and convenient financial transactions. Manage your money effortlessly and enjoy a cashless lifestyle!
 
 *(Check out my repositories for more!)*
 
